@@ -33,4 +33,7 @@ It should be noted that the creation of separate virtual networks for the web se
 ![image](https://user-images.githubusercontent.com/90714558/158080105-493fce90-fa28-4aae-830d-340008539d67.png)
 
 ## Network Diagram  
-![image](https://github.com/bbpalmer/ELK-Stack-Project/blob/main/Resources/ELK%20Stack%20project%20network.pdf)
+![image](https://user-images.githubusercontent.com/90714558/159179753-3124c3b5-826c-4665-9aec-157b25d12974.png)
+
+## Network Security Group Rules  
+![image](https://user-images.githubusercontent.com/90714558/159179932-5d54dc0a-4690-42b4-b64e-1f89c6986e0e.png)
