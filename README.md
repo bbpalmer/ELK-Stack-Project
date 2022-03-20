@@ -33,4 +33,4 @@ It should be noted that the creation of separate virtual networks for the web se
 ![image](https://user-images.githubusercontent.com/90714558/158080105-493fce90-fa28-4aae-830d-340008539d67.png)
 
 ## Network Diagram  
-![image]https://github.com/bbpalmer/ELK-Stack-Project/blob/main/Resources/ELK%20Stack%20project%20network.pdf
+![image](https://github.com/bbpalmer/ELK-Stack-Project/blob/main/Resources/ELK%20Stack%20project%20network.pdf)
